@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build tools
+prepros-*.config
+node_modules/
+.sass-cache/
